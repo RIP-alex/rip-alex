@@ -48,14 +48,10 @@ Je suis un développeur passionné avec un parcours atypique combinant design, c
   <img src="https://github.com/rip-alex/metrics/blob/master/github-metrics.svg" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RIP-alex&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
 ## 📫 Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alexrip">
+  <a href="https://www.linkedin.com/in/arippling">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://rip-alex.github.io/Airpxel">
