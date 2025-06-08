@@ -45,11 +45,11 @@ Je suis un développeur passionné avec un parcours atypique combinant design, c
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rip-alex&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RIP-alex&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rip-alex&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RIP-alex&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ## 📫 Contact
