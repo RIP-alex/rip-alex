@@ -45,7 +45,7 @@ Je suis un développeur passionné avec un parcours atypique combinant design, c
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github.com/rip-alex/metrics/blob/main/github-metrics.svg" />
+  <img src="https://github.com/rip-alex/metrics/blob/master/github-metrics.svg" />
 </p>
 
 <p align="center">
